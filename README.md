@@ -62,9 +62,8 @@
 
 ## 🌐 Let's Connect!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shraddha-girish-reddy-630b48246?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDsKUnV%2FuQZOrKgqZiKdoEg%3D%3D)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-shraddhagreddy@gmail.com)  
 
 ---
 
