@@ -1,4 +1,4 @@
-# Hi 👋 I'm Shraddha Reddy  
+# Hi 👋 I'm Shraddha Girish Reddy  
 
 🎓 CS student interested in AI, ML, and software engineering  
 💻 Languages: Java | Python | C  
