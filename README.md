@@ -56,8 +56,7 @@
 
 ![Shraddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shraddhagreddy&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shraddhagreddy&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shraddhagreddy&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=shraddhagreddy&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=shraddhagreddy)
 
 
 
