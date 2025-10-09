@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shraddha Girish Reddy  
+# Hi, I'm Shraddha Girish Reddy  
 
 🎓 **CS Grad | Aspiring AI/ML Engineer | Software Developer**  
 💡 Passionate about solving real-world problems with **Machine Learning, AI, and Software Engineering**  
