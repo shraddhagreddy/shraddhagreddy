@@ -9,7 +9,7 @@
 
 ## 🚀 Tech Stack  
 
-💻 **Languages:**  
+💻 **Languages:**   
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)  
 ![C](https://img.shields.io/badge/C-lightgrey?logo=c&logoColor=white)  
