@@ -1,6 +1,6 @@
 # Hi, I'm Shraddha Girish Reddy  
 
-🎓 **CS Grad | Aspiring AI/ML Engineer | Software Developer**  
+🎓 **CS Grad | Aspiring AI/ML Engineer | Software Developer**   
 💡 Passionate about solving real-world problems with **Machine Learning, AI, and Software Engineering**  
 🌱 Currently building **Plant Disease Prediction using ML**  
 🚀 Exploring **Open Source | Research | System Design**  
