@@ -59,5 +59,3 @@ Exploring **Open Source | Research | System Design**
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-shraddhagreddy@gmail.com)  
 
 ---
-
-✨ *“The best way to predict the future is to create it.”* ✨
