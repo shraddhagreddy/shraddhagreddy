@@ -52,15 +52,6 @@ Exploring **Open Source | Research | System Design**
 
 ---
 
-##  GitHub Stats  
-
-![Shraddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shraddhagreddy&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shraddhagreddy&layout=compact&theme=tokyonight)  
-
-
-
-
----
 
 ##  Let's Connect!  
 
